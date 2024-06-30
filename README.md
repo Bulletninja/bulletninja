@@ -18,8 +18,6 @@ My stats..
 
 ![My Stats](https://github-readme-stats-six-steel-35.vercel.app/api?username=bulletninja&count_private=true&show_icons=true&theme=synthwave&show=discussions_started,prs_merged,prs_merged_percentage&hide=stars&custom_title=Bulletninja%27s%20yearly%20github%20stats)
 
-[Compare on ShipTalkers](https://shiptalkers.dev/compare?github=bulletninja&twitter=thebulletninja)
-
 My top languages..
 
 ![My top languages](https://github-readme-stats-six-steel-35.vercel.app/api/top-langs?username=bulletninja&count_private=true&theme=synthwave&layout=donut)
@@ -30,4 +28,4 @@ Pins
 ![A pin](https://github-readme-stats-six-steel-35.vercel.app/api/pin?username=bulletninja&count_private=true&show_icons=true&theme=synthwave&repo=github-readme-stats)
 -->
 
-![image](https://github.com/Bulletninja/bulletninja/assets/71659/07dfec28-3028-4dd8-aada-ee630a44d7e9)
+[![image](https://github.com/Bulletninja/bulletninja/assets/71659/07dfec28-3028-4dd8-aada-ee630a44d7e9)](https://shiptalkers.dev/compare?github=bulletninja&twitter=thebulletninja)
